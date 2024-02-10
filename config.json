@@ -1,0 +1,15 @@
+{
+    "database": {
+        "server": "172.23.42.30",
+        "driver": "SQL Server",
+        "db": "master"
+    },
+    "working_dir": "U:\\Documents\\GitHub\\Interstate_Parkway_KMZ_Generator",
+    "export_dir": "U:\\Documents\\GitHub\\Interstate_Parkway_KMZ_Generator\\KMZ_Exports",
+    "sde_dir": "D:\\Scripts\\SDE_Connections",
+    "prd_conn": "PRD-01A\\PRD-01A-KYTCVector_Reference@OSA.sde\\KYTCVector_REFERENCE.DBO.",
+    "drive_mappings": {
+        "j_drive": "\\\\eas.ds.ky.gov\\dfs\\HIS_Archives",
+        "n_drive": "\\\\eas.ds.ky.gov\\dfs\\kytcd00t11\\data"
+    }
+}
